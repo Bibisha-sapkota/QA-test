@@ -1,4 +1,5 @@
-QA manual  testing of HR management- OrangeHRM
+#QA manual  testing of HR management- OrangeHRM
+
 This project presents manual testing of the OrangeHRM Demo web application.
 
 Project Goal
