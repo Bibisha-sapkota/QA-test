@@ -1,4 +1,6 @@
 #QA manual  testing of HR management- OrangeHRM
+Drive link of whole documentation:https://docs.google.com/document/d/1CntRznbNDRKZjPSD8oxbBu62ko2UIa7X/edit?usp=drive_link&ouid=101004261965958542622&rtpof=true&sd=true
+
 
 This project presents manual testing of the OrangeHRM Demo web application.
 
