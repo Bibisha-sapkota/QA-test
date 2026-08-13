@@ -1,0 +1,17 @@
+. Test Plan
+Document Title	Test Plan OrangeHRM Open Source Demo
+ (opensource-demo.orangehrmlive.com)
+Objective / Scope	Test 4 core modules of the OrangeHRM demo application: Login, PIM (Employee Management), Leave (Apply Leave), and Admin (User Management).
+Test Strategy / Approach	Manual functional testing — Positive, Negative, and Boundary test cases across all modules.
+Test Levels	System Testing (black-box, UI level)
+Features to be Tested	Login/Logout, Employee Add/Search/Edit (PIM), Apply Leave, User Add/Edit (Admin)
+Features NOT to be Tested	Payroll module, Performance module, Recruitment module, Time module — out of scope due to time constraints
+Test Environment	URL: https://opensource-demo.orangehrmlive.com | Browser: Chrome (latest) | OS: Windows 11 | Device: Desktop
+Entry Criteria	Demo site must be accessible; default Admin credentials (Username: Admin, Password: admin123) must work
+Exit Criteria	All planned test cases executed; all found defects documented
+Roles & Responsibilities	QA Tester (self): test case design, execution, bug reporting, and final reporting
+Test Schedule / Timeline	Day 1: Test Plan + exploration | Day 2-4: Test case design + RTM | Day 5-6: Execution | Day 7: Bug reporting | Day 8: Summary report
+Tools Used	Jira (bug tracking), Google Sheets/Word (test case documentation), Chrome DevTools
+Risk & Mitigation	Risk: shared public demo data may be modified by other users → Mitigation: verify test data and re-test before confirming a defect
+Deliverables	Test Case Document, RTM, Bug Reports, Test Summary Report
+ 
